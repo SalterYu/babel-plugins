@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "license": "",
   "main": "lib/index.js",
-  "repository": "salteryu/babel-plugins/babel-plugin-inline-app-json",
+  "repository": "SalterYu/babel-plugins/tree/master/babel-plugin-inline-app-json",
   "keywords": [
     "babel-plugin",
     "miniapp",
@@ -22,5 +22,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "salteryu",
-  "description": "用于将小程序项目中的app.json引入转为js对象"
+  "description": "transver the app.json in miniapp to js module"
 }
