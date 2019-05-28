@@ -1,0 +1,35 @@
+{
+  "tabBar": {
+    "backgroundColor": "red",
+    "borderStyle": "white",
+    "color": "blue",
+    "selectedColor": "green",
+    "list": [
+      {
+        "pagePath": "pathToA",
+        "iconPath": "imgs/a.png",
+        "selectedIconPath": "imgs/a-selected.png",
+        "text": "a"
+      },
+      {
+        "pagePath": "pathToB",
+        "iconPath": "imgs/b.png",
+        "selectedIconPath": "imgs/b-selected.png",
+        "text": "b"
+        /* annotation */
+      },
+      {
+        "pagePath": "pathToC",
+        "iconPath": "imgs/c.png",
+        "selectedIconPath": "imgs/c-selected.png",
+        "text": "c"
+      },
+      {
+        "pagePath": "pathToD",
+        "iconPath": "imgs/d.png",
+        "selectedIconPath": "imgs/d-selected.png",
+        "text": "d"
+      }
+    ]
+  }
+}

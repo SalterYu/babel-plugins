@@ -1,0 +1,26 @@
+{
+  "name": "babel-plugin-inline-app-json",
+  "version": "0.0.2",
+  "license": "",
+  "main": "lib/index.js",
+  "repository": "salteryu/babel-plugins/babel-plugin-inline-app-json",
+  "keywords": [
+    "babel-plugin",
+    "miniapp",
+    "babel",
+    "plugin"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0",
+    "json5": "^2.1.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "salteryu",
+  "description": "用于将小程序项目中的app.json引入转为js对象"
+}
