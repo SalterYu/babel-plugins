@@ -1,9 +1,12 @@
 {
   "name": "babel-plugin-inline-app-json",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "license": "",
   "main": "lib/index.js",
-  "repository": "SalterYu/babel-plugins/tree/master/babel-plugin-inline-app-json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:SalterYu/babel-plugins.git"
+  },
   "keywords": [
     "babel-plugin",
     "miniapp",
